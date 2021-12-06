@@ -27,6 +27,6 @@ directions:
 
 ---
 
-Suggested variations:  
+Suggested variations  
 - Put a layer of creamed corn between the ground beef and the mashed potatoes.
 - Sprinkle grated cheddar cheese over the top of the mashed potatoes before baking.
