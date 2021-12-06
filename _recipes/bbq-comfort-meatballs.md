@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "BBQ Comfort Meatballs"
-tags: beef
+tags: beef, bbq
 
 ingredients:
 - 1-1/2lb ground beef
