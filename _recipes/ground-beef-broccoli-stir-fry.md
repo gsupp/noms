@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "20 minute Ground Beef & Broccoli Stir Fry"
+image: ground-beef-broccoli-stir-fry.jpg
 tags: beef, stir-fry
 
 ingredients:

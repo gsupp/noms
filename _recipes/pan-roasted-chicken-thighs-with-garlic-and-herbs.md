@@ -2,7 +2,8 @@
 
 layout: recipe
 title:  "Pan Roasted Chicken Thighs with Garlic and Herbs"
-tags: 
+image: pan-roasted-chicken-thighs-with-garlic-and-herbs.jpg
+tags: chicken
 
 ingredients:
 - 2 Tbsp olive oil
