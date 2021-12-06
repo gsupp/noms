@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "Crispy Baked Eggplant"
+image: crispy-baked-eggplant.jpg
 tags: vegeterian
 
 ingredients:
