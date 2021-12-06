@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Shepherd\'s Pie"
+title:  "Shepherds Pie"
 tags: beef
 
 ingredients:
