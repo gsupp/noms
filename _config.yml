@@ -1,14 +1,14 @@
 # Site settings
-title: Chowdown
+title: Noms
 email: your-email@domain.com
-description: The plain text recipe database for hackers
+description: Recipes from Lacey and Grant
 domain: noms.laceyandgrant.com
 url: https://noms.laceyandgrant.com
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
-twitter_username: clarklab
-github_username:  clarklab
+# twitter_username: clarklab
+github_username:  gsupp
 
 # Build settings
 markdown: kramdown
