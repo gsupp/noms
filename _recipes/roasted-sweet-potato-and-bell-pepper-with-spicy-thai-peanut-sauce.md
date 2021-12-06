@@ -6,7 +6,7 @@ image: roasted-sweet-potato-and-bell-pepper-with-spicy-thai-peanut-sauce.jpg
 tags: vegan
 
 ingredients:
-- **Sauce**
+- Sauce
 - 1/2c creamy peanut butter
 - 1/4c coconut aminos
 - 3T apple cider vinegar
@@ -15,13 +15,13 @@ ingredients:
 - 2 cloves garlic, pressed
 - 1/4t red pepper flakes
 - 2T water
-- **Vegetables**
+- Vegetables
 - 2 sweet potatoes, peeled and sliced into 1in long, 1/2in wide chunks
 - 1 red bell pepper, cored, deseeded, and sliced into bite-sized strips
 - 2T coconut oil (or olive oil)
 - 1/4t cumin powder
 - Salt, to taste 
-- **Rice and garnishes**
+- Rice and garnishes
 - 1 1/4c brown rice
 - 2 to 3 green onions, sliced
 - Handful cilantro, torn
