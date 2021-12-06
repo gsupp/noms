@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Gluten free Brownies"
+title:  "Gluten Free Brownies"
 tags: chocolate, baking
 
 ingredients:
