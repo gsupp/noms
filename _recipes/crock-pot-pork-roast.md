@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Crock pot pork roast"
+title:  "Crock Pot Pork Roast"
 tags: pork 
 
 ingredients:
