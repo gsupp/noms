@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "Gluten Free Vegan Banana Bread Bites"
+image: gluten-free-vegan-banana-bread-bites.jpg
 tags: vegan, gf
 
 ingredients:
