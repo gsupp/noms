@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "Shepherds Pie"
+image: shepherds-pie.jpg
 tags: beef
 
 ingredients:
