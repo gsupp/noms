@@ -2,8 +2,8 @@
 title: Chowdown
 email: your-email@domain.com
 description: The plain text recipe database for hackers
-url: gsupp.github.io
-baseurl: "/noms"
+domain: noms.laceyandgrant.com
+url: https://noms.laceyandgrant.com
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
