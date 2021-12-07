@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Chicken Fried Rice"
-image: check-fried-rice.jpg
+image: chicken-fried-rice.jpg
 tags: chicken, rice
 
 ingredients:
