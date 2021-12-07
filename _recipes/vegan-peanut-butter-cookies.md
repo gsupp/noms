@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "Vegan Peanut Butter Cookies"
+image: vegan-peanut-butter-cookies.jpg
 tags: vegan, cookies
 
 ingredients:

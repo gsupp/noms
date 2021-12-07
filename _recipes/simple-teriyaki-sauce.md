@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  ""
+title:  "Simple Teriyaki Sauce"
 tags: 
 
 ingredients:
