@@ -1,0 +1,20 @@
+---
+
+layout: recipe
+title:  "Coconut Aminos Ginger Stir Fry Sauce"
+tags: sauce
+
+ingredients:
+- 1/2c coconut aminos
+- 1/2c chicken stock (or beef)
+- 1T potato starch
+- 1T honey (optional)
+- 1t sesame seed oil
+- 1t rice vinegar
+- 1/2T ground ginger (or 2" piece of ginger, peeled and grated)
+- 2 minced garlic cloves
+
+directions:
+- Combine all ingredients. Makes 1-1/4 cups. Will keep refrigerated in an airtight container for 1 week. 
+
+---
