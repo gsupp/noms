@@ -7,7 +7,7 @@ tags: chicken
 ingredients:
 - 1c jasmine rice (or brown)
 - 1/2c chicken stock
-- 3T coconut aminos (or soy sauce)
+- 3T coconut aminos
 - 1T fish sauce (optional)
 - 1.5T light brown sugar
 - 1.5T unseasoned rice vinegar
