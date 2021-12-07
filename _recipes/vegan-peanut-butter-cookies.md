@@ -12,7 +12,7 @@ ingredients:
 - 2t vanilla extract
 - 1c flour (light spelt, unbleached all-purpose, 1–1 gluten free)
 - 1t baking soda
-- generous pinch of sea salt (only use if butter is unsalted)
+- generous pinch of sea salt (only use if peanut butter is unsalted)
 
 
 directions:
