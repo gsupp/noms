@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "Stuffed Bell Peppers"
+image: stuffed-bell-peppers.jpg
 tags: beef
 
 ingredients:
