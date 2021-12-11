@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "Tabouli"
+image: tabouli.jpg
 tags: vegan
 
 ingredients:

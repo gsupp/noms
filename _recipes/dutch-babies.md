@@ -14,7 +14,7 @@ ingredients:
 
 directions:
 - Preheat oven to 400f
-- If using cast iron, preheat pan too
+- If using cast iron, preheat pan
 - Blend eggs 1 minute on high in blender
 - Slowly add milk while continuing to blend
 - slowly add flour while continueing to blend
