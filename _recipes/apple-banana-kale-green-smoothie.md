@@ -9,9 +9,12 @@ ingredients:
 - 1/2 apple chopped
 - 1/2 banana chopped, frozen
 - Handful of spinach/kale, ribs removed
-- 1/2c almond milk or water/ice
+- 1/2c almond, coconut or cashew milk
+- 1 Tbsp gluten-free oats
 
 directions:
-- Combine in a blender until well blended, you want the kale finely chopped.
+- Combine in a blender until very well blended, you want the greens finely chopped.
 
 ---
+
+I usually double this recipe and have it for breakfast.
