@@ -11,6 +11,7 @@ ingredients:
 - 1/4c ketchup
 - 1/2c chili sauce
 - 1/2c your favorite BBQ sauce
+- Rub ingredients ->
 - 1 tablespoon paprika
 - 1 tablespoon brown sugar
 - 3/4 teaspoon garlic powder
