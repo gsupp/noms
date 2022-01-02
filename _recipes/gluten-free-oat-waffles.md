@@ -3,6 +3,7 @@
 layout: recipe
 title:  "Gluten Free Oat Waffles"
 tags: breakfast, gf
+image: gluten-free-oat-waffles.jpg
 
 ingredients:
 - 1.5c oat flour
