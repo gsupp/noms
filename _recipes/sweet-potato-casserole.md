@@ -3,6 +3,7 @@
 layout: recipe
 title:  "Sweet Potato Casserole"
 tags: potato
+image: sweet-potato-casserole.jpg
 
 ingredients:
 - 5 sweet potatoes, peeled and sliced

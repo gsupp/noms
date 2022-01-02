@@ -21,4 +21,4 @@ directions:
 
 ---
 
-This is a classic Filippino dish that I grew up eating. Traditionally made with soy sauce, this recipe adapts easily to coconut aminos.
+Philippine adobo is a classic Filippino dish that I grew up eating. Traditionally made with soy sauce, this recipe adapts easily to coconut aminos.
