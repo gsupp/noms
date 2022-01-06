@@ -3,14 +3,14 @@
 layout: recipe
 title:  "Banana Bread"
 image: banana-bread.jpg
-tags: bread, gf
+tags: bread, gf, df, dairy-free, gluten-free
 
 ingredients:
 - 3 medium (7" to 7-7/8" long) very ripe bananas, peeled (about 1 1/2 cups mashed)
 - 1/4 cup coconut oil, melted
 - 1/2 teaspoon baking soda
 - 1 pinch salt
-- 1 tsp cinnamon
+- 1/2 Tbsp cinnamon
 - 2 Tbsp honey or maple syrup
 - 1 large egg, beaten
 - 1 tsp vanilla extract
@@ -26,4 +26,4 @@ directions:
 
 ---
 
-Try adding chocolate chips or shredded coconut.
+This recipe contains no refined sugars or dairy and is gluten free. For a twist, try adding chocolate chips and/or shredded coconut.
