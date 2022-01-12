@@ -25,3 +25,5 @@ directions:
 - Once the quinoa is done, take off the heat and fluff with a fork. Serve beef over quinoa, top with green onion.
 
 ---
+
+Can also be garnished with jalapenos, seasame seeds, fried egg, etc.
