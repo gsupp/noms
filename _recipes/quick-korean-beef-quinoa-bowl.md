@@ -7,12 +7,13 @@ image: quick-korean-beef-quinoa-bowl.jpg
 
 ingredients:
 - 1 cup quinoa, rinsed
+- 2 cups chicken stock (or water)
 - 1/4 teaspoon fresh ground ginger
 - 3 cloves garlic, minced
 - 1 pound lean ground beef
-- 2 tablespoon maple syrup
+- 2 Tablespoons maple syrup
 - 1/4 cup coconut aminos
-- 1 tablespoon sesame oil
+- 1 Tablespoon sesame oil
 - 1/2 teaspoon crushed red pepper flakes, or more if you like it spicy
 - salt and pepper, to taste
 - 2 green onions, thinly sliced
@@ -26,4 +27,4 @@ directions:
 
 ---
 
-Can also be garnished with jalapenos, seasame seeds, fried egg, etc.
+Can also be garnished with jalapenos, seasame seeds, fried egg, pickled onions, etc.

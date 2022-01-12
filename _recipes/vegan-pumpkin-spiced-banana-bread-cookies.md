@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Easy Vegan Pumpkin Spiced Banana Bread Cookies"
+title:  "Vegan Pumpkin Spiced Banana Bread Cookies"
 tags: vegan, cookies
 
 ingredients:

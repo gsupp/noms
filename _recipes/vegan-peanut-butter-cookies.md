@@ -7,7 +7,7 @@ tags: vegan, cookies
 
 ingredients:
 - 1c natural peanut butter, creamy or crunchy (or almond butter)
-- 1c coconut sugar or pure cane sugar
+- 3/4c coconut or date sugar
 - 6T almond milk, room temp
 - 2t vanilla extract
 - 1c flour (light spelt, unbleached all-purpose, 1–1 gluten free)
@@ -26,10 +26,8 @@ directions:
 ---
 
 NOTES  
-Reduce the sugar to 3/4 cup for a less sweet cookie. It’s just as delicious!
-
 If you don’t have baking soda on hand, baking powder works great too.
 
 When flattening, dip the fork in sugar between pressing the cookie to keep them from sticking.
 
-If allergic to peanuts, use sunbutter instead.
+If allergic to peanuts, use almond butter or sunbutter instead.
