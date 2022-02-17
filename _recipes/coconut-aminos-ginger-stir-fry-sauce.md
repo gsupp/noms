@@ -6,7 +6,7 @@ tags: sauce
 
 ingredients:
 - 1/2c coconut aminos
-- 1/2c chicken stock (or beef)
+- 1/2c stock or broth (chicken, beef or vegetable)
 - 1T potato starch
 - 1T honey (optional)
 - 1t sesame seed oil
@@ -15,6 +15,6 @@ ingredients:
 - 2 minced garlic cloves
 
 directions:
-- Combine all ingredients. Makes 1-1/4 cups. Will keep refrigerated in an airtight container for 1 week. 
+- Combine all ingredients. Makes about 1 cup. Will keep refrigerated in an airtight container for 1 week. 
 
 ---

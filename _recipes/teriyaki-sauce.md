@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Chicken Teriyaki Sauce"
+title:  "Teriyaki Sauce"
 tags: sauce
 
 ingredients:
@@ -20,3 +20,5 @@ directions:
 - Promptly remove from heat when sauce thickens to desired thickness.
 
 ---
+
+Great for stir fry with chicken or pork.
