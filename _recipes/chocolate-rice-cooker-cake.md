@@ -24,4 +24,4 @@ directions:
 
 ---
 
-I've never been thrilled with single use kitchen appliances, but it turns out a rice cooker can be used for several things, including making cake! This is a low power option to bake if you don't have an oven. They can also be used as a slow cooker for soups and stews, oatmeal, quinoa or pasta. There are even "fuzzy logic" rice cookers popular in Asia that have several different functions, often including a cake setting.
+I've never been thrilled with single use kitchen appliances, but it turns out a rice cooker can be used for several things, including making cake! This is a low power option to bake if you don't have an oven. They can also be used as a slow cooker for soups and stews, oatmeal, quinoa, pasta or even hard boiling eggs! There are even "fuzzy logic" rice cookers popular in Asia that have several different functions, often including a cake setting.
