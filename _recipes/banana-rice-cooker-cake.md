@@ -34,3 +34,5 @@ directions:
 - Remove the pot from the rice cooker and invert onto a plate. The cake should easily drop from the pot. Slice and serve.
 
 ---
+
+I've never been thrilled with single use kitchen appliances, but it turns out a rice cooker can be used for several things, including making cake! This is a low power option to bake if you don't have an oven. They can also be used as a slow cooker for soups and stews, oatmeal, quinoa, pasta, beans, lentils or even hard boiling eggs! There are "fuzzy logic" rice cookers popular in Asia that have several different functions, often including a cake setting. Since rice cooker sizes vary so much, I've included half recipe measurements for smaller cookers.
