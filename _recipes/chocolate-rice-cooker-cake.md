@@ -13,13 +13,13 @@ ingredients:
 - 1 1/2c all-purpose flour
 - 3/4c sugar
 - Half recipe ->
-- 1/2c milk
-- 1/4c coconut oil
-- 1/2t vanilla extract
-- 2T cocoa powder
-- 1/2T baking powder
-- 3/4c all-purpose flour
-- 1/4c + 2T sugar
+- -> 1/2c milk
+- -> 1/4c coconut oil
+- -> 1/2t vanilla extract
+- -> 2T cocoa powder
+- -> 1/2T baking powder
+- -> 3/4c all-purpose flour
+- -> 1/4c + 2T sugar
 
 directions:
 - Combine milk, coconut oil and vanilla extract in a small bowl.
