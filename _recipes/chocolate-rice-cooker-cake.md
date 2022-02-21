@@ -12,7 +12,7 @@ ingredients:
 - 1T baking powder
 - 1 1/2c all-purpose flour
 - 3/4c sugar
-- **Half recipe ->**
+- Half recipe ->
 - 1/2c milk
 - 1/4c coconut oil
 - 1/2t vanilla extract
