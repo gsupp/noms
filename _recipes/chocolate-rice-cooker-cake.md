@@ -20,14 +20,6 @@ ingredients:
 - -> 1/2T baking powder
 - -> 3/4c all-purpose flour
 - -> 1/4c + 2T sugar
-- Third Recipe ->
-- 1/3c milk
-- 2T 2t coconut oil
-- 1/3t vanilla extract
-- 1T 1t cocoa powder
-- 1t baking powder
-- 1/2c all-purpose flour
-- 1/4c sugar 
 
 directions:
 - Combine milk, coconut oil and vanilla extract in a small bowl.
@@ -40,4 +32,4 @@ directions:
 
 ---
 
-I've never been thrilled with single use kitchen appliances, but it turns out a rice cooker can be used for several things, including making cake! This is a low power option to bake if you don't have an oven. They can also be used as a slow cooker for soups and stews, oatmeal, quinoa, pasta, beans, lentils or even hard boiling eggs! There are "fuzzy logic" rice cookers popular in Asia that have several different functions, often including a cake setting. Since rice cooker sizes vary so much, I've included half and third recipe measurements for smaller cookers.
+I've never been thrilled with single use kitchen appliances, but it turns out a rice cooker can be used for several things, including making cake! This is a low power option to bake if you don't have an oven. They can also be used as a slow cooker for soups and stews, oatmeal, quinoa, pasta, beans, lentils or even hard boiling eggs! There are "fuzzy logic" rice cookers popular in Asia that have several different functions, often including a cake setting. Since rice cooker sizes vary so much, I've included half recipe measurements for smaller cookers.
