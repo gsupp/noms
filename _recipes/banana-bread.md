@@ -7,10 +7,10 @@ tags: bread, gf, df, dairy-free, gluten-free
 
 ingredients:
 - 3 to 4 medium (7" to 8" long) very ripe bananas, peeled (about 1 1/2 cups mashed)
-- 1/4 cup coconut oil, melted
+- 1/3 cup coconut oil, melted
 - 1/2 teaspoon baking soda
 - 1 pinch salt
-- 1/2 Tbsp cinnamon
+- 1 tsp cinnamon
 - 2 Tbsp maple syrup
 - 1 large egg, beaten
 - 1 tsp vanilla extract
