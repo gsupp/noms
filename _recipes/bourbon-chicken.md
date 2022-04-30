@@ -16,7 +16,7 @@ ingredients:
 - 1/3c brown sugar
 - 2T ketchup
 - 1T apple cider vinegar
-- 1/4c coconut aminos
+- 1/3c coconut aminos
 - 1T potato starch
 
 directions:
