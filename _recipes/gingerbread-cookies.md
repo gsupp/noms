@@ -10,7 +10,7 @@ ingredients:
 - 1c granulated sugar
 - 1 large egg
 - 1/4c molasses
-- 2 1/2c all-purpose flour
+- 2 1/2c all-purpose gluten-free flour
 - 2t baking soda
 - 1/4t salt (omit if using salted butter)
 - 1t cinnamon
