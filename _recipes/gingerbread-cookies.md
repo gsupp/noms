@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "Gingerbread Cookies"
+image: gingerbread-cookies.jpg
 tags: cookies, baking
 
 ingredients:
