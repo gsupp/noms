@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "Chocolate Rice Cooker Cake"
+image: chocolate-rice-cooker-cake.jpg
 tags: baking
 
 ingredients:
