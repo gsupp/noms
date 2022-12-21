@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "Coconut Aminos Ginger Stir Fry Sauce"
+image: coconut-aminos-ginger-stir-fry-sauce.jpg
 tags: sauce
 
 ingredients:
