@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "Baked Salmon with Garlic Mashed Potatoes"
+image: baked-salmon-with-garlic-mashed-potatoes.jpg
 tags: salmon
 
 ingredients:
