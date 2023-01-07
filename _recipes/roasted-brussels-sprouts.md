@@ -3,6 +3,7 @@
 layout: recipe
 title:  "Roasted Brussels Sprouts"
 tags: vegetable, vegan
+image: roasted-brussels-sprouts.jpg
 
 ingredients:
 - Brussels sprouts

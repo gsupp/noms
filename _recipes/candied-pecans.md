@@ -3,6 +3,7 @@
 layout: recipe
 title:  "Candied Pecans"
 tags: candy, nuts
+image: candied-pecans.jpg
 
 ingredients:
 - 3/4 c brown sugar
