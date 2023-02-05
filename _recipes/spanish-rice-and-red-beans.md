@@ -18,7 +18,7 @@ ingredients:
 - 1 (14oz) can fire-roasted diced tomatoes (can also use 1c salsa)
 - 2 (15oz) cans kidney beans, drained and rinsed
 - 3c broth (vegetable or chicken, can also use water) 
-- Optional: pre-cooked meat of choice (sliced sausage, bacon, ground beef, turkey, ham)
+- (Optional) Pre-cooked meat of choice (sliced sausage, bacon, ground beef, turkey, ham)
 
 directions:
 - Heat oil in a large skillet. Add onion and cook until soft, about 5 minutes. 
