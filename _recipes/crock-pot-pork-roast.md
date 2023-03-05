@@ -12,12 +12,13 @@ ingredients:
 - 2 TBSP honey
 - 2 tsp minced garlic
 - 2 tsp potato starch
+- Salt and pepper to taste
 
 directions:
 - Place roast in slow cooker. Combine remaining ingredients (except potato starch) in a small bowl. Whisk together and pour over roast.
-- Cook on low 8-10 hours for that fall-apart, insanely tender roast. (Or on high 4-6 hours.)
-- Prior to serving, ladle out about 1/4 cup of the juice in the crock pot and strain into a measuring cup.
-- Whisk in 2 tsp potato starch. Add in enough juice to make 1 cup.
-- Microwave on high for 30 seconds and whisk again. Drizzle sauce over meat prior to serving.
+- Cook on low 8-10 hours for that fall-apart, super tender roast. (Or on high 4-6 hours.)
+- Prior to serving, ladle out about 1 cup of the juice in the crock pot and strain into a measuring cup.
+- Whisk 2 tsp potato starch with 2 Tbsp water and whisk into measuring cup.
+- Microwave on high for 30-45 seconds and whisk again. Drizzle sauce over meat prior to serving.
 
 ---
