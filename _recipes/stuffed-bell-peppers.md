@@ -11,8 +11,8 @@ ingredients:
 - 1 cup finely chopped yellow onions or two shallots
 - 1/2 cup finely chopped green bell peppers
 - 1 pound ground beef
-- 1 tablespoon minced garlic
-- 1/4 cup finely chopped fresh parsley leaves
+- 3 cloves minced garlic
+- 1/4 cup finely chopped fresh parsley leaves or 2T dried
 - 1 teaspoon salt
 - 1/2 teaspoon ground black pepper
 - 1 1/2 teaspoon chili powder
