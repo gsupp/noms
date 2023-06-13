@@ -5,19 +5,19 @@ title:  "Pineapple Rice Cooker Upside Down Cake"
 tags: baking
 
 ingredients:
-- Topping -> 
-- Pineapple rings
-- 2T butter
-- 1/4c brown sugar
-- Cake ->
-- 1/2c butter
-- 3/4c sugar
-- 2 eggs at room temperature
-- 1t vanilla extract
-- 1 1/2c all-purpose flour
-- 1 1/2t baking powder
-- 1/4t salt (omit if using salted butter)
-- 1/2c milk at room temperature
+- Topping
+- -> Pineapple rings
+- -> 2T butter
+- -> 1/4c brown sugar
+- Cake
+- -> 1/2c butter
+- -> 3/4c sugar
+- -> 2 eggs at room temperature
+- -> 1t vanilla extract
+- -> 1 1/2c all-purpose flour
+- -> 1 1/2t baking powder
+- -> 1/4t salt (omit if using salted butter)
+- -> 1/2c milk at room temperature
 - Cake Half Recipe ->
 - -> 1/4c butter
 - -> 5T sugar
