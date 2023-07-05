@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Pineapple Rice Cooker Upside Down Cake"
+title:  "Rice Cooker Pineapple Upside Down Cake"
 tags: baking
 
 ingredients:
@@ -18,7 +18,7 @@ ingredients:
 - -> 1 1/2t baking powder
 - -> 1/4t salt (omit if using salted butter)
 - -> 1/2c milk at room temperature
-- Cake Half Recipe ->
+- Cake Half Recipe
 - -> 1/4c butter
 - -> 5T sugar
 - -> 1 egg at room temperature
