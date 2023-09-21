@@ -21,4 +21,4 @@ directions:
 
 ---
 
-After trying this homemade taco seasoning recipe, I'll never buy store bought again!
+After trying this homemade taco seasoning recipe, you'll never buy store bought again!
