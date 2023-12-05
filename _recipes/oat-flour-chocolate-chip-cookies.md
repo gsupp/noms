@@ -6,7 +6,7 @@ tags: baking, cookies, dessert
 
 ingredients:
 - 1/2 cup butter, room temperature
-- 3/4 cup light brown sugar, tightly packed, or coconut sugar
+- 1/2 cup light brown sugar, tightly packed, or coconut sugar
 - 1 egg
 - 2 tsp vanilla extract
 - 2 cups oat flour
@@ -21,7 +21,7 @@ directions:
 - Chill the dough in the fridge for 30 minutes (don't skip!).
 - Preheat oven to 350f. Line baking pan with parchment paper.
 - Scoop 1" round balls onto lined baking pan. Place roughly 2" apart.
-- Bake for 10 to 11 minutes or until edges are slightly golden and center is set.
+- Bake for 10 to 12 minutes or until edges are slightly golden and center is set.
 - Allow to cool for 10 minutes before transferring to cooling rack.
 
 ---
