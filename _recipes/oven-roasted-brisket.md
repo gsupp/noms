@@ -3,6 +3,7 @@
 layout: recipe
 title:  "Oven Roasted Brisket"
 tags: beef
+image: oven-roasted-brisket.jpg
 
 ingredients:
 - 4 Lbs beef brisket
