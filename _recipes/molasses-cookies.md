@@ -6,7 +6,7 @@ tags: cookies, baking
 
 ingredients:
 - 3/4c butter, softened
-- 1 egg (2 eggs if gluten-free)
+- 1 egg
 - 1/4c molasses
 - 2c flour
 - 1c sugar
