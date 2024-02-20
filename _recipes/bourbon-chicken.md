@@ -13,7 +13,7 @@ ingredients:
 - 1/4t ginger
 - 1/2t crushed red pepper flakes
 - 1/4c apple juice
-- 1/3c brown sugar
+- 1/4c brown sugar
 - 2T ketchup
 - 1T apple cider vinegar
 - 1/3c coconut aminos

@@ -21,6 +21,6 @@ directions:
 - Mash potatoes, mix in garlic butter, milk, salt, pepper and garlic powder to taste.
 - Slice lemon in half. Squeeze the juice of one half over the salmon. Cut the second half into slices.
 - Season salmon with salt and pepper. Place cut lemon slices on top.
-- Bake, uncovered, at 425°f for 20-25 minutes or until fish flakes easily with a fork.
+- Bake, uncovered, at 425°f for 20-25 minutes (15-20 minutes for wild caught) or until fish flakes easily with a fork.
 
 ---
