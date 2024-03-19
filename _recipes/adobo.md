@@ -14,8 +14,8 @@ ingredients:
 - Bay leaves
 
 directions:
-- Sauté several sliced cloves of garlic and half a diced medium onion in olive oil. 
-- Throw in cut up chicken and sear until white on the outside in a deep pot. 
+- Sauté several sliced cloves of garlic and half a diced medium onion in olive oil in a deep pot. 
+- Throw in cut up chicken and sear until white on the outside. 
 - Add equal parts of coconut aminos and vinegar (2-2.5 ladles of each), to taste. Add black pepper to taste. Add 4 bay leaves. Add 1.5 cups of water. 
 - Cover and let simmer on medium-high for 20-30 minutes. Serve over white rice.
 
