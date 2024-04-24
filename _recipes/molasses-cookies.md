@@ -25,7 +25,7 @@ directions:
 - In a separate bowl, combine flour, sugar, baking powder, baking soda and spices.
 - Add dry ingredients to butter mixture. Beat until smooth.
 - Form dough into 1-inch balls. Roll in sugar.
-- Bake at 375F for 9-11 minutes. Cool on a wire rack.
+- Bake at 375F for 9 to 11 minutes. Cool on a wire rack.
 
 ---
 

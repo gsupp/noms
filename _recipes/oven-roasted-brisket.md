@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Oven Roasted Brisket"
-tags: beef
+tags: beef, keto
 image: oven-roasted-brisket.jpg
 
 ingredients:
@@ -17,7 +17,6 @@ ingredients:
 - 1/4c garlic powder
 - 1 tsp cayenne
 - 2 tsp dry mustard
-- 2 tsp sugar
 
 directions:
 - Trim any excess fat. Combine dry rub ingredients and rub all over brisket.
