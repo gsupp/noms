@@ -3,6 +3,7 @@
 layout: recipe
 title:  "Roasted Pepitas"
 tags: 
+image: roasted-pepitas.jpg
 
 ingredients:
 - 16oz raw pepitas
