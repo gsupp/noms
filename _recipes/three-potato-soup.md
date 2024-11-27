@@ -3,6 +3,7 @@
 layout: recipe
 title:  "Three Potato Soup"
 tags: soup
+image: three-potato-soup.jpg
 
 ingredients:
 - 3T olive oil or butter
@@ -15,7 +16,7 @@ ingredients:
 - 1c shredded sharp cheddar cheese
 - 1/2c sour cream
 - 2t Cajun seasoning
-- 1t salt
+- 1/2t salt
 - 1/2t black pepper
 - optional toppings -> green onions or chives, extra shredded cheese, sour cream
 
