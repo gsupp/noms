@@ -6,12 +6,12 @@ image: shepherds-pie.jpg
 tags: beef, lamb, comfort
 
 ingredients:
-- 3-4 large (1 1/2 - 2 pounds) potatoes , peeled and quartered
-- 8 tablespoons (1/2 cup) butter
-- 1 medium onion, chopped (about 1 1/2 cups)
-- 1-2 cups vegetables—diced carrots, corn, peas
+- 3-4 large (1 1/2 to 2lbs) potatoes, peeled and quartered
+- 8T (1/2c) butter
+- 1 medium onion, chopped (about 1 1/2c)
+- 1-2c vegetables—diced carrots, corn, peas
 - 1 1/2 pounds ground lamb or beef
-- 1/2 cup beef broth
+- 1/2c beef broth
 - 2T Worcestershire sauce
 - 1t crushed rosemary
 - 1t thyme 
