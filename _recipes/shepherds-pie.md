@@ -12,9 +12,9 @@ ingredients:
 - 1-2 cups vegetables—diced carrots, corn, peas
 - 1 1/2 pounds ground lamb or beef
 - 1/2 cup beef broth
-- 1 Tablespoon Worcestershire sauce
-- 1 teaspoon crushed rosemary
-- 1 teaspoon thyme 
+- 2T Worcestershire sauce
+- 1t crushed rosemary
+- 1t thyme 
 - 1 bayleaf
 - Salt and pepper, other seasonings of choice
 
@@ -24,10 +24,10 @@ directions:
 - Add vegetables according to their cooking time. Carrots should be cooked with the onions, because they take as long to cook as the onions do. If you are including peas or corn, add them toward the end of the cooking of the onions, or after the meat starts to cook, as they take very little cooking time. 
 - Add the ground meat to the pan with the onions and vegetables. Cook until no longer pink. Season with salt, pepper, rosemary and thyme.
 - Add the Worcestershire sauce, beef broth and bayleaf. Bring the broth to a simmer and reduce heat to low. Cook uncovered for 10 minutes, adding more beef broth if necessary to keep the meat from drying out.
-- When the potatoes are done cooking (a fork can easily pierce), remove them from the pot and place them in a bowl with the remaining 4 Tbsp of butter. Mash and season with salt and pepper to taste.
-- Preheat oven to 400°F. Spread the beef, onions, and vegetables (remove bayleaf) in an even layer in a large baking dish (9x13 casserole).
+- When the potatoes are done cooking (a fork can easily pierce), add the remaining 4 Tbsp of butter, mash and season with salt and pepper to taste.
+- Preheat oven to 400°F. Spread the beef, onions, and vegetables (remove bayleaf) in an even layer in a large greased baking dish (9x13 casserole).
 - Spread the mashed potatoes over the top. Rough up the surface of the mashed potatoes with a fork so there are peaks that will get well browned.
-- Place in a 400°F oven and cook until browned and bubbling, about 30 minutes. If necessary, broil for the last few minutes to help the surface of the mashed potatoes brown. (Use caution when broiling in Pyrex or glass dishes, they can shatter from the heat of the broiler.)
+- Place in oven and cook until browned and bubbling, about 30 minutes. If necessary, broil for the last few minutes to help the surface of the mashed potatoes brown. (Do not broil in Pyrex or glass dishes, they can shatter from the heat.)
 
 ---
 
