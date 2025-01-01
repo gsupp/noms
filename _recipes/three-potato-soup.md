@@ -8,7 +8,7 @@ image: three-potato-soup.jpg
 ingredients:
 - 3T olive oil or butter
 - 1 small white onion, diced (or 1t onion powder)
-- 4 cloves garlic, minceda(or 1t garlic powder)
+- 4 cloves garlic, minced (or 1t garlic powder)
 - 1/4c flour
 - 2c vegetable stock
 - 2c milk, warmed
