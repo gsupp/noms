@@ -18,9 +18,9 @@ ingredients:
 
 directions:
 - Season the roast with salt and pepper on all sides, rubbing it in. Let sit for 30 to 45 minutes to come to room temperature.
-- Heat 1T oil in a large stock pot over medium-high heat. Add the shallots/onion and cook until browned, stirring ocassionally, about 5 minutes.
+- Heat 1T oil in a large stock pot over medium-high heat. Add the shallots/onion and cook until browned, stirring occasionally, about 5 minutes.
 - Remove the onions and place in a bowl. Add the radishes and carrots and cook until browned, about 7 minutes.
-- Trasnfer the remaining veggies to a bowl.
+- Transfer the remaining veggies to a bowl.
 - Add 1T oil to the pot and sear the chuck roast on all sides until browned, about 2 minutes per side.
 - Place the chuck roast in the bottom of the crock pot. Arrange the veggies around the sides and top.
 - Add the beef broth, rosemary and thyme. Make sure the herbs are submerged in the broth.
