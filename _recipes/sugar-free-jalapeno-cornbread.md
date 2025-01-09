@@ -10,7 +10,7 @@ ingredients:
 - 1c milk
 - 1 egg
 - 1 1/4c cornmeal
-- 1c gluten-free flour
+- 1c gluten-free all-purpose flour
 - 1T baking powder
 - 1/8t salt
 - 2 jalapenos
@@ -20,12 +20,14 @@ directions:
 - Slice the jalapenos lengthwise and cut out the seeds and membranes, mince.
 - In a large mixing bowl, whisk together butter/oil, milk and egg. Add the minced jalapenos.
 - In another bowl, combine cornmeal, flour, baking powder and salt.
-- Slowly add the cornmeal mixture to the wet ingredients while stirring slightly. Do not over mix, the batter will still have a few lumps in it.
+- Slowly add the cornmeal mixture to the wet ingredients while stirring gently. Do not over mix, the batter will still have a few lumps in it.
 - Spread mixture evenly into prepared baking dish. Bake for 22 to 26 minutes, until a toothpick inserted in the center comes out clean. Cool for 10 to 15 minutes before slicing.
 
 ---
 
 Cornbread is traditionally sweet, I'd recommend serving with honey for those that aren't sugar-free.
+
+This recipe also works well for making cornbread muffins. Simply use a muffin pan instead.
 
 The batter should be thick enough to not pour easily.
 
