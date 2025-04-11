@@ -7,7 +7,7 @@ tags: gf, bread
 ingredients:
 - 2c gluten free flour
 - 2T aluminum free baking powder
-- 1t salt (1/2t if using salted butter)
+- 1t salt (3/4t if using salted butter)
 - 5T butter, cold
 - 1c milk
 
