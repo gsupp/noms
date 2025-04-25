@@ -6,7 +6,7 @@ tags: pork
 
 ingredients:
 - 8-10 boneless pork ribs
-- 1 1/2t garlic powder
+- 2t garlic powder
 - 2t smoked paprika
 - 1 1/2t cumin
 - 1/2t onion powder
