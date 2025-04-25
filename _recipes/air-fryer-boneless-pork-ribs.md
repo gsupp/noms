@@ -16,7 +16,7 @@ ingredients:
 directions:
 - Mix dry rub ingredients together and sprinkle on all sides of ribs, rubbing it in.
 - Let sit for 20 to 30 minutes to come to room temperature.
-- Arrange ribs in a single layer in air fryer and cook for 18 to 20 minutes at 370f, flipping halfway through. Do not overcook, internal temperature should reach 145f.
+- Arrange ribs in a single layer in air fryer and cook for 18 to 20 minutes at 370f, flipping halfway through.You may have to cook in batches, depending on air fryer size. Do not overcook, internal temperature should reach 145f.
 
 ---
 
