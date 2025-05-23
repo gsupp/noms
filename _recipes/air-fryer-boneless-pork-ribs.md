@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Air Fryer Boneless Pork Ribs"
 tags: pork
-image:air-fryer-boneless-pork-ribs.jpg 
+image: air-fryer-boneless-pork-ribs.jpg 
 
 ingredients:
 - 8-10 boneless pork ribs
