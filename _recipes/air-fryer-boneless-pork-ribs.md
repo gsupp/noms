@@ -9,8 +9,8 @@ ingredients:
 - 8-10 boneless pork ribs
 - 2t garlic powder
 - 2t smoked paprika
-- 1 1/2t cumin
-- 1/2t onion powder
+- 1t cumin
+- 1t onion powder
 - 1t salt
 - 1/2t black pepper
 
@@ -21,4 +21,4 @@ directions:
 
 ---
 
-Proportions of dry rub ingredients can be adjust to taste.
+Proportions of dry rub ingredients can be adjusted to taste.
