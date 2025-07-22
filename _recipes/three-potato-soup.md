@@ -18,7 +18,7 @@ ingredients:
 - 2t Cajun seasoning
 - 1/4t salt
 - 1/2t black pepper
-- optional toppings -> green onions or chives, extra shredded cheese, sour cream
+- optional toppings -> green onions or chives, extra shredded cheese, sour cream, bacon bits or ground beef
 
 
 directions:
