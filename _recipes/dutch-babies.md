@@ -6,10 +6,10 @@ image: dutch-babies.jpg
 tags: breakfast, eggs
 
 ingredients:
-- 2/3c Milk
-- 2/3c Flour
-- 3 Eggs
-- Butter
+- 2/3c milk
+- 2/3c flour
+- 3 eggs
+- 1/2 stick butter
 - Lemon
 - Powdered sugar
 
