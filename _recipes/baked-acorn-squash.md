@@ -3,6 +3,7 @@
 layout: recipe
 title:  "Baked Acorn Squash"
 tags: squash
+image: baked-acron-squash.jpg
 
 ingredients:
 - 1 acorn squash
