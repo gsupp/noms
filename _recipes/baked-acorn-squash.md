@@ -21,5 +21,5 @@ directions:
 - Drizzle 1/2T maple syrup into the center of each half.
 - Sprinkle with a dash of salt and ground cinnamon to taste.
 - Bake at 400f for about 1 hour to 1 hour and 15 minutes, until the tops of the squash halves are nicely browned and the squash flesh is very soft and cooked through.
-- Air Fryer: 15 minutes at 350f upside down, then flip cut side up and 10 minutes at 400f. 
+- Air Fryer -> 15 minutes at 350f upside down, then flip cut side up and 10 minutes at 400f. 
 ---
