@@ -15,12 +15,12 @@ ingredients:
 - 1t to 2t red pepper flakes (depending on desired heat)
 
 directions:
-- Slice cucumbers of uniform thickness, toss with 1T salt, let sit for 20 minutes
-- Whisk together rice vinegar, coconut aminos, sesame oil, ginger, garlic and red pepper flakes
-- Remove cucumbers with slotted spoon, place in mixture, add enough water to fully cover
-- Stir and refrigerate overnight
-- Will keep for up to 2 weeks in the fridge
+- Slice cucumbers of uniform thickness, toss with 1T salt in a bowl, let sit for 20 minutes.
+- Whisk together rice vinegar, coconut aminos, sesame oil, ginger, garlic and red pepper flakes in a separate container.
+- Remove cucumbers with slotted spoon, place in mixture, add enough water to fully cover.
+- Stir and refrigerate overnight.
+- Will keep for up to 2 weeks in the fridge.
 
 ---
 
-Crisp and quick, you can pickle other vegetables such as peppers.
+Crisp and quick, you can also pickle other vegetables such as peppers.
