@@ -22,9 +22,10 @@ ingredients:
 - fresh cilantro (optional)
 
 directions:
-- I like the Thai pineapple fried rice best with left-over rice from the day before. So cook the rice according to the instructions on the package and store it in an air-tight container in the fridge until you use it. Cook the frozen peas for about 7 minutes.
-- In a large pan, heat the oil and sauté the onion for about 3 minutes. Then add the garlic, the carrots, and the bell pepper. Cook for 3 minutes.
-- Then stir in the cooked rice and season with the curry powder and the soy sauce. Next, add the pineapple, the peas, the green onion, and the cashews. 
-- Season with salt, black pepper, and if using red pepper flakes. Stir until well combined. Serve with fresh cilantro.
+- This recipe turns out best with left-over rice from the day before. So cook the rice according to the instructions on the package and store it in an air-tight container in the fridge until the next day. Cook the frozen peas for about 7 minutes.
+- In a large pan, heat the oil and sauté the onion for about 3 minutes. Then add the garlic, carrots, and bell pepper. Cook for 3 minutes.
+- Stir in the cooked rice and season with curry powder and soy sauce. 
+- Next, add the pineapple, peas, green onions and cashews. 
+- Season with salt, black pepper, and red pepper flakes, if using. Stir until well combined. Serve with fresh cilantro.
 
 ---
